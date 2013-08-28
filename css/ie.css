@@ -1,0 +1,14 @@
+.bg-3,#search_form input,#message_form textarea,#message_form label input,.testim,.time,.letter,.bg-4,.img_border,.bg-2,.button-1,.border-1,.menu li>span,.bg-1 {behavior:url(js/PIE.htc);position:relative}
+.menu ul {behavior:url(js/PIE.htc);}
+.button-1 {-pie-background: linear-gradient(#606060 0%, #5e5e5e 14%, #484747 75%, #414141 100%)}
+.button-1:hover {-pie-background: linear-gradient(#57c4fa 0%, #44b1e7 100%)}
+.bg-1 {-pie-background: linear-gradient(#475a7c 0%, #3d4a68 62%, #394663 100%)}
+.bg-2 {-pie-background: linear-gradient(#efeeee 0%, #f3f3f3 8%, #f3f3f3 13%, #edecec 38%, #dad9d9 87%, #d8d6d5 92%, #cbcaca 100%)}
+.menu>li.sfHover > span,
+.menu>li:hover > span,
+.menu>li.active>span {-pie-background: linear-gradient(#1b222e 0%, #131822 68%, #12161e 100%)}
+.menu li li:hover > a, 
+.menu li li.sfHover > a {
+	background:url(../images/menu2.gif) left top repeat-x #424242;
+}
+.button-1 {box-shadow:none;}
